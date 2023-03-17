@@ -1,0 +1,8 @@
+find all in products - findAllProducts()
+find the first product - findFirstProduct()
+find all products with name - findByName(name)
+find all products with qty - findByQty(qty)
+find all products that rated user name - findByRateUser(user)
+sort all products by price - sortbyprice();
+sort and filter in all products - filterFields();
+find all products name starts with "Book1" - findAllProductsStartsWithBook1()
